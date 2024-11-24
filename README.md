@@ -2,9 +2,9 @@
 Leistung Arbeit Energie Watt Joule 
 
 ## Physikalische Einheit
-```$$
+```math
 Energie = Arbeit = Nm = J = Ws 
-$$
+```
 
 ## Energiegehalt
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
