@@ -21,3 +21,6 @@ $= 544kWs = 0,151 kWh$
 
 Gemessene Arbeit:   
 $W_{powermeter} = 0,1 kWh$  
+
+Entstandene Kosten:   
+$K = 30 \frac{cent}{kWh} \cdot 0,15kWh = 4,5 cent$  
