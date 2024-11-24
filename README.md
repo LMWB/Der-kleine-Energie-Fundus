@@ -9,8 +9,8 @@ Energie = Arbeit = Nm = J = Ws
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
 10l Heizoel = 1kWh   
-1 Feuerzeug (Butangas) = 
-3 Jahresstromverbrauch eines Personenhaushalt = 3500 kWh [3]
+1 Feuerzeug (Butangas) = ...   
+Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]
 
 
 ## Energiekosten
