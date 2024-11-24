@@ -27,6 +27,8 @@ Um mit einem handelsüblichen Wasserkocher 1,5l Wasser zum kochen bringen benöt
 
 ## Quellen
 [1] [Wattzahlen eines guten Radfahrers](https://blog.2peak.com/was-sind-die-durchschnittlichen-wattzahlen-eines-guten-radfahrers/)  
-[2] [Wattzahl Gehen](https://www.trainingbeicopd.de/lunge_leistung.html)
-[3] [Stromverbrauch](https://www.adac.de/rund-ums-haus/energie/spartipps/stromverbrauch-im-haushalt/#stromverbrauch-von-3-personen)
-[4] [Stromverbrauch Wasserkocher](https://github.com/LMWB/Der-kleine-Energie-Fundus/tree/main/Wasserkocher)
+[2] [Wattzahl Gehen](https://www.trainingbeicopd.de/lunge_leistung.html)  
+[3] [Stromverbrauch](https://www.adac.de/rund-ums-haus/energie/spartipps/stromverbrauch-im-haushalt/#stromverbrauch-von-3-personen)  
+[4] [Stromverbrauch Wasserkocher](https://github.com/LMWB/Der-kleine-Energie-Fundus/tree/main/Wasserkocher)  
+
+
