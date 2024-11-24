@@ -22,5 +22,5 @@ Für eine einzige kWh müsste ein gut trainierter Radfahrer 5h strampeln (200W k
 Um mit einem handelsüblichen Wasserkocher 1,5l Wasser zum kochen bringen benötigt es 0,15 kWh. Dabei entstehen kosten von 4,5 cent.
 
 ## Quelle
-[1] ![Wattzahlen eines guten Radfahrers](https://blog.2peak.com/was-sind-die-durchschnittlichen-wattzahlen-eines-guten-radfahrers/)  
-[2] ![Wattzahl Gehen](https://www.trainingbeicopd.de/lunge_leistung.html)
+[1] [Wattzahlen eines guten Radfahrers](https://blog.2peak.com/was-sind-die-durchschnittlichen-wattzahlen-eines-guten-radfahrers/)  
+[2] [Wattzahl Gehen](https://www.trainingbeicopd.de/lunge_leistung.html)
