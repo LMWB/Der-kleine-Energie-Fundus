@@ -16,7 +16,7 @@ Das interesannte dabei ist, das mechanische, thermodynamische, elektrische, ja s
 1kg Braunkohle = 3.3kWh  
 
 1 Feuerzeug (Butangas) = 0.137 ... 0.206 kWh  
-Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]
+Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]  
 1 BigMac = 0.58kWh (503kcal)
 1 Whopper = 0.71kWh (610kcal)    
 
