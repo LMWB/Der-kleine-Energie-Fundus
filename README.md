@@ -11,9 +11,14 @@ Das interesannte dabei ist, das mechanische, thermodynamische, elektrische, ja s
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
 10l Heizoel = 1kWh   
-1 Feuerzeug (Butangas) = 0.137 ... 0.206 kWh. 
-Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]
+1qm Erdags = 10kWh (920g)  
+1kg Steinkohle = 8.14kWh  
+1kg Braunkohle = 3.3kWh  
 
+1 Feuerzeug (Butangas) = 0.137 ... 0.206 kWh  
+Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]
+1 BigMac = 0.58kWh (503kcal)
+1 Whopper = 0.71kWh (610kcal)    
 
 ## Energiekosten
 Strompreis in der Industrie 16,65 cent/kWh  
