@@ -3,8 +3,10 @@ Leistung Arbeit Energie Watt Joule
 
 ## Physikalische Einheit
 ```math
-Energie = Arbeit = [Nm = J = Ws] 
+Energie = Arbeit = [Nm = J = Ws = cal]  
 ```
+In den eckigen Klammwen befindet sich die physikalische Einheit(en) der Energie.   
+Das interesannte dabei ist, das mechanische Energie, thermodynamische, elektrische, ja sogar, ernährungswissentschaftlich betrachte, das Gleiche.  
 
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
