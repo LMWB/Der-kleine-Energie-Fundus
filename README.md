@@ -45,8 +45,8 @@ Um mit einem handelsüblichen Wasserkocher 1,5l Wasser zum kochen bringen benöt
 [2] [Wattzahl Gehen](https://www.trainingbeicopd.de/lunge_leistung.html)  
 [3] [Stromverbrauch](https://www.adac.de/rund-ums-haus/energie/spartipps/stromverbrauch-im-haushalt/#stromverbrauch-von-3-personen)  
 [4] [Stromverbrauch Wasserkocher](https://github.com/LMWB/Der-kleine-Energie-Fundus/tree/main/Wasserkocher)  
-[5] [kcal](https://www.gesundheit.gv.at/lexikon/K/kalorie1-hk.html)
-[6] [ID3](https://de.m.wikipedia.org/wiki/VW_ID.3)
+[5] [kcal](https://www.gesundheit.gv.at/lexikon/K/kalorie1-hk.html)  
+[6] [ID3](https://de.m.wikipedia.org/wiki/VW_ID.3)  
 
 
 
