@@ -32,8 +32,7 @@ Strompreis in der Industrie 16,65 cent/kWh
 Grundversorgung Privathaushalt 42,82 cent/kWh  
 Durchschnitt Privathaushalt 30 cent/kWh  
 
-Für eine einzige kWh müsste ein gut trainierter Radfahrer, 5h permanent strampeln (200W konstante Leistung [1]). Der Athlet hat dann sage und schreibe 30 cent erwirtschaftet. 
-
+Für eine einzige kWh müsste ein gut trainierter Radfahrer, 5h permanent strampeln (200W konstante Leistung [1]). Der Athlet hat dann sage und schreibe 30 cent erwirtschaftet. Rein rechnerische, dürfte er dafür nur zwei BigMac gegessen haben.  
 ## Real World Examples
 Um mit einem handelsüblichen Wasserkocher 1,5l Wasser zum kochen bringen benötigt es 0,15 kWh. Dabei entstehen kosten von 4,5 cent [4].  
 
