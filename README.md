@@ -3,7 +3,7 @@ Leistung Arbeit Energie Watt Joule
 
 ## Physikalische Einheit
 ```math
-Energie = Arbeit = [Nm = J = Ws = cal]  
+Energie = Arbeit = Wärme = [Nm = J = Ws = cal]  
 ```
 In den eckigen Klammwen befindet sich die physikalische Einheit(en) der Energie.   
 Das interesannte dabei ist, das mechanische, thermodynamische, elektrische, ja sogar, ernährungswissentschaftlich betrachtete, Energie im Grunde das Gleiche ist.  
