@@ -8,7 +8,8 @@ Energie = Arbeit = Wärme = [Nm = J = Ws = cal]
 In den eckigen Klammwen befindet sich die physikalische Einheit(en) der Energie.   
 Das interesannte dabei ist, das mechanische, thermodynamische, elektrische, ja sogar, ernährungswissentschaftlich betrachtete, Energie im Grunde das Gleiche ist.  
 
-Die Kilocalorie (kcal), oft auch als Nahrungscalorie bekant, ist die Menge an Wärme, die benötigt wird, um ein Liter Wasser um ein Grad Celsius zu erhöhen.  
+Die Kilocalorie (kcal), oft auch als Nahrungscalorie bekant, ist die Menge an Wärme, die benötigt wird, um ein Liter Wasser um ein Grad Celsius zu erhöhen.[5]  
+
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
 10l Heizoel = 1kWh   
@@ -20,6 +21,11 @@ Die Kilocalorie (kcal), oft auch als Nahrungscalorie bekant, ist die Menge an W�
 Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]  
 1 BigMac = 0.58kWh (503kcal)
 1 Whopper = 0.71kWh (610kcal)    
+
+1 Gramm Protein liefert 17 kJ (4 kcal)  
+1 Gramm Fett liefert 37 kJ (9 kcal)  
+1 Gramm Kohlenhydrate liefert 17 kJ (4 kcal)  
+1 Gramm Alkohol liefert 29 kJ (7 kcal)  [5]
 
 ## Energiekosten
 Strompreis in der Industrie 16,65 cent/kWh  
@@ -38,5 +44,5 @@ Um mit einem handelsüblichen Wasserkocher 1,5l Wasser zum kochen bringen benöt
 [2] [Wattzahl Gehen](https://www.trainingbeicopd.de/lunge_leistung.html)  
 [3] [Stromverbrauch](https://www.adac.de/rund-ums-haus/energie/spartipps/stromverbrauch-im-haushalt/#stromverbrauch-von-3-personen)  
 [4] [Stromverbrauch Wasserkocher](https://github.com/LMWB/Der-kleine-Energie-Fundus/tree/main/Wasserkocher)  
-
+[5] [kcal](https://www.gesundheit.gv.at/lexikon/K/kalorie1-hk.html)
 
