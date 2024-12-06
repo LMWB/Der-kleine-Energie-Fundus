@@ -17,7 +17,7 @@ Die Kilocalorie (kcal), oft auch als Nahrungscalorie bekant, ist die Menge an W�
 1kg Steinkohle = 8.14kWh  
 1kg Braunkohle = 3.3kWh  
 
-Die Hochvolt Batterie des Volkswagen ID3 hat Energiespeicher von 58kWh. In diesem Zusammenhang wird die Energie auch oft als elektrische Kapazität bezeichnet.  
+Die Hochvolt Batterie des Volkswagen ID3 hat einen Energiespeicher von 58kWh. In diesem Zusammenhang wird die Energie auch oft als elektrische Kapazität bezeichnet.  
 
 1 Feuerzeug (Butangas) = 0.137 ... 0.206 kWh  
 Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]  
