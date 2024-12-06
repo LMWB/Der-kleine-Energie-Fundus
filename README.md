@@ -8,6 +8,7 @@ Energie = Arbeit = [Nm = J = Ws = cal]
 In den eckigen Klammwen befindet sich die physikalische Einheit(en) der Energie.   
 Das interesannte dabei ist, das mechanische, thermodynamische, elektrische, ja sogar, ernährungswissentschaftlich betrachtete, Energie im Grunde das Gleiche ist.  
 
+Die Kilocalorie (kcal), oft auch als Nahrungscalorie bekant, ist die Menge an Wärme, die benötigt wird, um ein Liter Wasser um ein Grad Celsius zu erhöhen.  
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
 10l Heizoel = 1kWh   
