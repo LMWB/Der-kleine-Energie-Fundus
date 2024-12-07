@@ -5,7 +5,7 @@ Leistung Arbeit Energie Watt Joule
 ```math
 Energie = Arbeit = Wärme = [Nm = J = Ws = cal]  
 ```
-In den eckigen Klammwen befindet sich die physikalische Einheit(en) der Energie.   
+In den eckigen Klammwen befindet sich die physikalische **SI** Einheit(en) der Energie [Newtonmeter, Joul, Wattsekunde, Kalorie].   
 Das interesannte dabei ist, das mechanische, thermodynamische, elektrische, ja sogar, ernährungswissentschaftlich betrachtete, Energie im Grunde das Gleiche ist.  
 
 Die Kilocalorie (kcal), oft auch als Nahrungscalorie bekant, ist die Menge an Wärme, die benötigt wird, um ein Liter Wasser um ein Grad Celsius zu erhöhen.[5]  
