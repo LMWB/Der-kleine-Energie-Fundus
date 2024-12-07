@@ -14,11 +14,14 @@ Die Kilocalorie (kcal), oft auch als Nahrungscalorie bekant, ist die Menge an W�
 ```math
 Leistung = [J/s = W = PS]  
 ```
+In diesem Text weden alle Beispiele auf Einheit kWh umgerechnet, da diese die meist geläufigsten ist und für alle Leser eine "greifbare Größe" darstellt (Ich gehe davon aus dass der Leser schon mal eine Stromrechnung bezahlt hat).  
 
 Leistung ist die **Fähigkeit** eines Systems (oder einer Maschine z.B einem Toaster) Arbeit zu verrichten.
 Ein handelsüblicher Toaster hat eine Lesitung von ca. 1300-1500 Watt.
 Steht er einfach nur auf dem Küchentisch wird keine Leistung abgerufen, da kein Strom fliesst und damit keine Arbeit verrichtet.
-Es wird also keine Energie erzeugt / verbraucht (je nach Betrachtung).  
+Es wird also keine Energie erzeugt / verbraucht (je nach Betrachtung).
+Ob ein System Arbeit verrichtet, also Leistung in Energie wandelt, ist maßgeblich durch den Faktor Zeit gegeben.
+Wie so oft in unserem realen Leben :)!  
 
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
