@@ -31,19 +31,20 @@ In diesem Text weden alle Beispiele auf die Einheit kWh umgerechnet, da diese di
 1kg Steinkohle = 8.14kWh  
 1kg Braunkohle = 3.3kWh  
 
-Die Hochvolt Batterie des Volkswagen ID3 hat einen Energiespeicher von 58kWh. In diesem Zusammenhang wird die Energie auch oft als elektrische Kapazität bezeichnet.[6]  
-Eine Ladesteckdose für zu Hause (Wallbox) stellt eine Leistung von 11kW oder 22kW zu Berfügung (vergleichbar CEE Stecker 16A bzw. 32A).
-Um einen ID3 voll zu laden weden also 5h bzw. knapp 3h benötigt. An einer gewöhnlichen Steckdose (max. 3,7kW) würde es fast 16h dauern.  
-
 1 Feuerzeug (Butangas) = 0.137 ... 0.206 kWh  
 Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]  
 1 BigMac = 0.58kWh (503kcal)  
 1 Whopper = 0.71kWh (610kcal)    
 
-1 Gramm Protein liefert 17 kJ (4 kcal)  
-1 Gramm Fett liefert 37 kJ (9 kcal)  
-1 Gramm Kohlenhydrate liefert 17 kJ (4 kcal)  
-1 Gramm Alkohol liefert 29 kJ (7 kcal)  [5]
+1 Gramm Protein liefert 0.005kWh (17 kJ / 4 kcal)  
+1 Gramm Fett liefert 0.01kWh (37 kJ / 9 kcal)  
+1 Gramm Kohlenhydrate liefert 0.005kWh (17 kJ / 4 kcal)  
+1 Gramm Alkohol liefert 0.008kWh (29 kJ / 7 kcal)  [5]
+
+Die Hochvolt Batterie des Volkswagen ID3 hat einen Energiespeicher von 58kWh. In diesem Zusammenhang wird die Energie auch oft als elektrische Kapazität bezeichnet.[6]  
+Eine Ladesteckdose für zu Hause (Wallbox) stellt eine Leistung von 11kW oder 22kW zu Verfügung (vergleichbar CEE Stecker 16A bzw. 32A).
+Um einen ID3 voll zu laden weden also 5h bzw. knapp 3h benötigt. An einer gewöhnlichen Steckdose (max. 3,7kW) würde es fast 16h dauern.  
+
 
 ## Energiekosten
 Strompreis in der Industrie 16,65 cent/kWh  
