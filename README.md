@@ -18,7 +18,7 @@ Leistung = [J/s = W = PS]
 Leistung ist die **Fähigkeit** eines Systems (oder einer Maschine z.B einem Toaster) Arbeit zu verrichten.
 Ein handelspblicher Toaster hat eine Lesitung von ca. 1700W.
 Steht er einfach nur auf dem Küchentisch wird keine Leistung abgerufen, da kein Strom fliesst und damit keine Arbeit verrichtet.
-Es wird also keine Energie erzeugt / verbraucht (je nach betrachtung).  
+Es wird also keine Energie erzeugt / verbraucht (je nach Betrachtung).  
 
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
