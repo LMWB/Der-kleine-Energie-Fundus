@@ -1,7 +1,7 @@
 # Der-kleine-Energie-Fundus
 Leistung Arbeit Energie Watt Joule 
 
-## Physikalische Einheit
+## Physikalische Einheit der Energie
 ```math
 Energie = Arbeit = Wärme = [Nm = J = Ws = cal]  
 ```
@@ -9,6 +9,16 @@ In den eckigen Klammwen befindet sich die physikalische Einheit(en) der Energie.
 Das interesannte dabei ist, das mechanische, thermodynamische, elektrische, ja sogar, ernährungswissentschaftlich betrachtete, Energie im Grunde das Gleiche ist.  
 
 Die Kilocalorie (kcal), oft auch als Nahrungscalorie bekant, ist die Menge an Wärme, die benötigt wird, um ein Liter Wasser um ein Grad Celsius zu erhöhen.[5]  
+
+## Physikalische Einheit der Leistung
+```math
+Leistung = [J/s = W = PS]  
+```
+
+Leistung ist die **Fähigkeit** eines Systems (oder einer Maschine z.B einem Toaster) Arbeit zu verrichten.
+Ein handelspblicher Toaster hat eine Lesitung von ca. 1700W.
+Steht er einfach nur auf dem Küchentisch wird keine Leistung abgerufen, da kein Strom fliesst und damit keine Arbeit verrichtet.
+Es wird also keine Energie erzeugt / verbraucht (je nach betrachtung).  
 
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
