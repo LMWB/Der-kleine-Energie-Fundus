@@ -32,6 +32,8 @@ In diesem Text weden alle Beispiele auf die Einheit kWh umgerechnet, da diese di
 1kg Braunkohle = 3.3kWh  
 
 Die Hochvolt Batterie des Volkswagen ID3 hat einen Energiespeicher von 58kWh. In diesem Zusammenhang wird die Energie auch oft als elektrische Kapazität bezeichnet.[6]  
+Eine Ladesteckdose für zu Hause (Wallbox) stellt eine Leistung von 11kW oder 22kW zu Berfügung (vergleichbar CEE Stecker 16A bzw. 32A).
+Um einen ID3 voll zu laden weden also 5h bzw. knapp 3h benötigt. An einer gewöhnlichen Steckdose (max. 3,7kW) würde es fast 16h dauern.  
 
 1 Feuerzeug (Butangas) = 0.137 ... 0.206 kWh  
 Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]  
