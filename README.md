@@ -22,7 +22,7 @@ Es wird also keine Energie erzeugt / verbraucht (je nach Betrachtung).
 Ob ein System Arbeit verrichtet, also Leistung in Energie wandelt, ist maßgeblich durch den Faktor Zeit gegeben.
 Wie so oft in unserem realen Leben :)!  
 
-In diesem Text weden alle Beispiele auf Einheit kWh umgerechnet, da diese die meist geläufigsten ist und für alle Leser eine "greifbare Größe" darstellt (Ich gehe davon aus dass der Leser schon mal eine Stromrechnung bezahlt hat).  
+In diesem Text weden alle Beispiele auf die Einheit kWh umgerechnet, da diese die meist geläufigsten ist und für alle Leser eine "greifbare Größe" darstellt (Ich gehe davon aus dass der Leser schon mal eine Stromrechnung bezahlt hat).  
 
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
