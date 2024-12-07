@@ -16,7 +16,7 @@ Leistung = [J/s = W = PS]
 ```
 
 Leistung ist die **Fähigkeit** eines Systems (oder einer Maschine z.B einem Toaster) Arbeit zu verrichten.
-Ein handelspblicher Toaster hat eine Lesitung von ca. 1300-1500 Watt.
+Ein handelsüblicher Toaster hat eine Lesitung von ca. 1300-1500 Watt.
 Steht er einfach nur auf dem Küchentisch wird keine Leistung abgerufen, da kein Strom fliesst und damit keine Arbeit verrichtet.
 Es wird also keine Energie erzeugt / verbraucht (je nach Betrachtung).  
 
