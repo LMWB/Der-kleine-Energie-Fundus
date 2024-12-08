@@ -1,4 +1,4 @@
-my# Der-kleine-Energie-Fundus
+# Der-kleine-Energie-Fundus
 Leistung Arbeit Energie Watt Joule 
 
 ## Physikalische Einheit der Energie
