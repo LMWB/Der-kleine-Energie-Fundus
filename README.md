@@ -30,6 +30,8 @@ In diesem Text weden alle Beispiele auf die Einheit kWh umgerechnet, da diese di
 1qm Erdags = 10kWh (920g)  
 1kg Steinkohle = 8.14kWh  
 1kg Braunkohle = 3.3kWh  
+1L Diesel = 10kWh  
+1L E-10 Benzin = 8.5kWh
 
 1 Feuerzeug (Butangas) = 0.137 ... 0.206 kWh  
 Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]  
@@ -45,6 +47,7 @@ Die Hochvolt Batterie des Volkswagen ID3 hat einen Energiespeicher von 58kWh. In
 Eine Ladesteckdose für zu Hause (Wallbox) stellt eine Leistung von 11kW oder 22kW zu Verfügung (vergleichbar CEE Stecker 16A bzw. 32A).
 Um einen ID3 voll zu laden weden also 5h bzw. knapp 3h benötigt. An einer gewöhnlichen Steckdose (max. 3,7kW) würde es fast 16h dauern.  
 
+Der Kraftstofftank eine Golf 7 fasst 50L. Ein voll getankter Golf 7 Diesel hat also eine "Kapazität" von 500kWh.  
 
 ## Energiekosten
 Strompreis in der Industrie 16,65 cent/kWh  
