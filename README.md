@@ -58,7 +58,12 @@ Für eine einzige kWh müsste ein gut trainierter Radfahrer, 5h permanent stramp
 ## Real World Examples
 Um mit einem handelsüblichen Wasserkocher 1,5l Wasser zum kochen bringen benötigt es 0,15 kWh. Dabei entstehen kosten von 4,5 cent [4].  
 
+## Energiespeicher
+Was ist ein guter Energie speicher? Sofort denken wir dabei an eine Batterie. Um im Bilde des ID3 zu bleiben, so wiegt die 58kWh Batterie stolze ???kg ...  
+Triviales Wasser zum Beispiel hat eine spezifische Wärmekapazität von 4,19 kJ/K/kg. 1 kg Wasser muss so eine Energie von ca. 4190 Joule zugeführt werden, um die Wassertemperatur um oder 1 ∘ C zu erhöhen.  
+Wie wir alle wissen ist Wasser weder giftig, noch selten, noch sonderlich kritisch in der industriellen verarbeitung. Es hat leider den gravierenden nachteil, dass man mit warmen Wasser keine Playstaiin betrieben kann oder einen KI Server. 
 
+500kg Wasser (500L) haben ... 
 
 ## Quellen
 [1] [Wattzahlen eines guten Radfahrers](https://blog.2peak.com/was-sind-die-durchschnittlichen-wattzahlen-eines-guten-radfahrers/)  
