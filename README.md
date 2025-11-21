@@ -27,7 +27,7 @@ In diesem Text werden alle Beispiele auf die Einheit kWh umgerechnet, da diese f
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
 10L Heizöl = 1kWh   
-1m<sup>3sup> Erdgas = 10kWh (920g)  
+1m<sup>3</sup> Erdgas = 10kWh (920g)  
 1kg Steinkohle = 8.14kWh  
 1kg Braunkohle = 3.3kWh  
 1L Diesel = 10kWh  
