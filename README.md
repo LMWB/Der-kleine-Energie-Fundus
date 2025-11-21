@@ -1,4 +1,4 @@
-`# Der-kleine-Energie-Fundus
+# Der-kleine-Energie-Fundus
 Leistung Arbeit Energie Watt Joule 
 
 ## Physikalische Einheit der Energie
@@ -37,7 +37,7 @@ Durchschnitt Privathaushalt 30 cent/kWh
 
 Für eine einzige kWh müsste ein gut trainierter Radfahrer, 5h permanent strampeln (200W konstante Leistung [1]). Der Athlet hat dann sage und schreibe 30 cent "erwirtschaftet". Rein rechnerische, dürfte er dafür nur zwei BigMac gegessen haben.  
 
-Angenommen, 20 Erwachsene Menschen strampeln 90min im Fitnessstudio während eines Spinning Courses mit einer Durchschnittsleistung von 200 Watt. Dabei wird eine Energie von [20*200W*1.5h=6kW] generiert. Das entspricht einer "Wertschöpfung" von 1 Euro und 80 cent.  
+Angenommen, 20 Erwachsene Menschen strampeln 90min im Fitnessstudio während eines Spinning Courses mit einer Durchschnittsleistung von 200 Watt. Dabei wird eine Energie von $20 \times 200W \times 1.5h = 6kW$ generiert. Das entspricht einer "Wertschöpfung" von 1 Euro und 80 cent.  
 
 ## Real World Examples
 Um mit einem handelsüblichen Wasserkocher 1,5l Wasser zum kochen bringen benötigt es 0,15 kWh. Dabei entstehen kosten von 4,5 cent [4].  
