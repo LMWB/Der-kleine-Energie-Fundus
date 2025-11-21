@@ -64,9 +64,9 @@ Um mit einem handelsüblichen Wasserkocher 1,5l Wasser zum kochen bringen benöt
 ## Energiespeicher
 Was ist ein guter Energie speicher? Sofort denken wir dabei an eine Batterie. Die 75kWh Batterie des Tesla Model 3 wiegt 478kg.  
 Triviales Wasser zum Beispiel hat eine spezifische Wärmekapazität von 1,16 Wh/K/kg. 1kg Wasser muss so eine Energie von ca. 4190 Joule (1,16Wh) zugeführt werden, um die Wassertemperatur um oder 1K zu erhöhen.  
-Wie wir alle wissen ist Wasser weder giftig, noch selten, noch teuer, noch sonderlich kritisch in der industriellen verarbeitung. Es hat leider den gravierenden nachteil, dass man mit warmen Wasser keine PlayStation betrieben kann oder einen KI Server.  
+Wie wir alle wissen ist Wasser weder giftig, noch selten, noch teuer, noch sonderlich kritisch in der industriellen Verarbeitung. Es hat leider den gravierenden nachteil, dass man mit warmen Wasser keine PlayStation betrieben kann oder einen KI Server.  
 
-478kg Wasser (478L), erhitzt auf 90 Grad hat eine gespeicherte Energie von 50kWh (relativ zu 0 Grad). Das ist zwar weniger als die Telsa Batterie aber dafür wesentlich unproblematischer.  
+478kg Wasser (478L), erhitzt auf 90 Grad hat eine gespeicherte Energie von 50kWh (relativ zu 0 Grad). Das ist zwar eine ganze Ecke weniger als die Telsa Batterie, dafür aber wesentlich unproblematischer in der Herstellung.  
 
 ## Quellen
 [1] [Wattzahlen eines guten Radfahrers](https://blog.2peak.com/was-sind-die-durchschnittlichen-wattzahlen-eines-guten-radfahrers/)  
