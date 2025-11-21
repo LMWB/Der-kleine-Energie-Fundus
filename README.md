@@ -27,8 +27,27 @@ In diesem Text werden alle Beispiele auf die Einheit kWh umgerechnet, da diese f
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
 10l Heizoel = 1kWh   
-1 Feuerzeug (Butangas) = ...   
+1qm Erdags = 10kWh (920g)  
+1kg Steinkohle = 8.14kWh  
+1kg Braunkohle = 3.3kWh  
+1L Diesel = 10kWh  
+1L E-10 Benzin = 8.5kWh
+
+1 Feuerzeug (Butangas) = 0.137 ... 0.206 kWh  
 Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]  
+1 BigMac = 0.58kWh (503kcal)  
+1 Whopper = 0.71kWh (610kcal)    
+
+1 Gramm Protein liefert 0.005kWh (17 kJ / 4 kcal)  
+1 Gramm Fett liefert 0.01kWh (37 kJ / 9 kcal)  
+1 Gramm Kohlenhydrate liefert 0.005kWh (17 kJ / 4 kcal)  
+1 Gramm Alkohol liefert 0.008kWh (29 kJ / 7 kcal)  [5]  
+
+Die Hochvolt Batterie des Volkswagen ID3 hat einen Energiespeicher von 58kWh. In diesem Zusammenhang wird die Energie auch oft als elektrische Kapazität bezeichnet.[6]  
+Eine Ladesteckdose für zu Hause (Wallbox) stellt eine Leistung von 11kW oder 22kW zu Verfügung (vergleichbar CEE Stecker 16A bzw. 32A).  
+Um einen ID3 voll zu laden weden also 5h bzw. knapp 3h benötigt. An einer gewöhnlichen Steckdose (max. 3,7kW) würde es fast 16h dauern.  
+
+Der Kraftstofftank eine Golf 7 fasst 50L. Ein voll getankter Golf 7 Diesel hat also eine "Kapazität" von 500kWh.  
 
 ## Energiekosten
 Strompreis in der Industrie 16,65 cent/kWh  
