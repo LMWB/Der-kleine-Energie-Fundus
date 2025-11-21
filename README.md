@@ -10,25 +10,22 @@ Energie = Arbeit = Nm = J = Ws
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
 10l Heizoel = 1kWh   
 1 Feuerzeug (Butangas) = ...   
-Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]
-
+Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]  
 
 ## Energiekosten
 Strompreis in der Industrie 16,65 cent/kWh  
 Grundversorgung Privathaushalt 42,82 cent/kWh  
 Durchschnitt Privathaushalt 30 cent/kWh  
 
-Für eine einzige kWh müsste ein gut trainierter Radfahrer, 5h permanent strampeln (200W konstante Leistung [1]). Der Athlet hat dann sage und schreibe 30 cent erwirtschaftet. 
+Für eine einzige kWh müsste ein gut trainierter Radfahrer, 5h permanent strampeln (200W konstante Leistung [1]). Der Athlet hat dann sage und schreibe 30 cent "erwirtschaftet". 
+
+Angenommen, 20 Erwachsene Menschen strampeln 90min im Fitnessstudio während eines Spinning Courses mit einer Durchschnittsleistung von 200 Watt. Dabei wird eine Energie von 20*200W*1.5h=6kW generiert. Das entspricht einer "Wertschöpfung" von 1 Euro und 80 cent.  
 
 ## Real World Examples
 Um mit einem handelsüblichen Wasserkocher 1,5l Wasser zum kochen bringen benötigt es 0,15 kWh. Dabei entstehen kosten von 4,5 cent [4].  
-
-
 
 ## Quellen
 [1] [Wattzahlen eines guten Radfahrers](https://blog.2peak.com/was-sind-die-durchschnittlichen-wattzahlen-eines-guten-radfahrers/)  
 [2] [Wattzahl Gehen](https://www.trainingbeicopd.de/lunge_leistung.html)  
 [3] [Stromverbrauch](https://www.adac.de/rund-ums-haus/energie/spartipps/stromverbrauch-im-haushalt/#stromverbrauch-von-3-personen)  
 [4] [Stromverbrauch Wasserkocher](https://github.com/LMWB/Der-kleine-Energie-Fundus/tree/main/Wasserkocher)  
-
-
