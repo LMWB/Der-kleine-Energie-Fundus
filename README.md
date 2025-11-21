@@ -1,10 +1,28 @@
 # Der-kleine-Energie-Fundus
 Leistung Arbeit Energie Watt Joule 
 
-## Physikalische Einheit
+## Physikalische Einheit der Energie
 ```math
-Energie = Arbeit = Nm = J = Ws 
+Energie = Arbeit = Wärme = [Nm = J = Ws = cal]  
 ```
+In den eckigen Klammwen befindet sich die physikalische **SI** Einheit(en) der Energie [Newtonmeter, Joul, Wattsekunde, Kalorie].   
+Das interesannte dabei ist, das mechanische, thermodynamische, elektrische, ja sogar, ernährungswissentschaftlich betrachtete, Energie im Grunde das Gleiche ist.  
+
+Die Kilocalorie (kcal), oft auch als Nahrungscalorie bekant, ist die Menge an Wärme, die benötigt wird, um ein Liter Wasser um ein Grad Celsius zu erhöhen.[5]  
+
+## Physikalische Einheit der Leistung
+```math
+Leistung = [J/s = W = PS]  
+```
+
+Leistung ist die **Fähigkeit** eines Systems (oder einer Maschine z.B einem Toaster) Arbeit zu verrichten.
+Ein handelsüblicher Toaster hat eine Lesitung von ca. 1300-1500 Watt.
+Steht er einfach nur auf dem Küchentisch wird keine Leistung abgerufen, da kein Strom fliesst und damit keine Arbeit verrichtet.
+Es wird also keine Energie erzeugt / verbraucht (je nach Betrachtung).
+Ob ein System Arbeit verrichtet, also Leistung in Energie wandelt, ist maßgeblich durch den Faktor Zeit gegeben.
+Wie so oft in unserem realen Leben :)!  
+
+In diesem Text weden alle Beispiele auf die Einheit kWh umgerechnet, da diese für eine große Personenzahl eine geläufige Einheit darstellt und eine "greifbare Größe" darstellt (Ich gehe davon aus, dass der Leser schon mal eine Stromrechnung bezahlt hat).  
 
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
@@ -17,8 +35,7 @@ Strompreis in der Industrie 16,65 cent/kWh
 Grundversorgung Privathaushalt 42,82 cent/kWh  
 Durchschnitt Privathaushalt 30 cent/kWh  
 
-Für eine einzige kWh müsste ein gut trainierter Radfahrer, 5h permanent strampeln (200W konstante Leistung [1]). Der Athlet hat dann sage und schreibe 30 cent "erwirtschaftet". 
-
+Für eine einzige kWh müsste ein gut trainierter Radfahrer, 5h permanent strampeln (200W konstante Leistung [1]). Der Athlet hat dann sage und schreibe 30 cent "erwirtschaftet". Rein rechnerische, dürfte er dafür nur zwei BigMac gegessen haben.  
 Angenommen, 20 Erwachsene Menschen strampeln 90min im Fitnessstudio während eines Spinning Courses mit einer Durchschnittsleistung von 200 Watt. Dabei wird eine Energie von 20*200W*1.5h=6kW generiert. Das entspricht einer "Wertschöpfung" von 1 Euro und 80 cent.  
 
 ## Real World Examples
