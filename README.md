@@ -26,12 +26,12 @@ In diesem Text werden alle Beispiele auf die Einheit kWh umgerechnet, da diese f
 
 ## Einige Zahlen
 1 Steher Buchenholz (15% Restfeuchte) = 1900 kWh  
-10l Heizoel = 1kWh   
-1qm Erdags = 10kWh (920g)  
+10L Heizöl = 1kWh   
+1qm Erdgas = 10kWh (920g)  
 1kg Steinkohle = 8.14kWh  
 1kg Braunkohle = 3.3kWh  
 1L Diesel = 10kWh  
-1L E-10 Benzin = 8.5kWh
+1L E-10 Benzin = 8.5kWh  
 
 1 Feuerzeug (Butangas) = 0.137 ... 0.206 kWh  
 Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]  
@@ -43,11 +43,11 @@ Jahresstromverbrauch eines 3 Personenhaushalt = 3500 kWh [3]
 1 Gramm Kohlenhydrate liefert 0.005kWh (17 kJ / 4 kcal)  
 1 Gramm Alkohol liefert 0.008kWh (29 kJ / 7 kcal)  [5]  
 
-Die Hochvolt Batterie des Volkswagen ID3 hat einen Energiespeicher von 58kWh. In diesem Zusammenhang wird die Energie auch oft als elektrische Kapazität bezeichnet.[6]  
+Die Hochvolt Batterie des Volkswagen ID3 hat einen Energiespeicher von 58kWh. In diesem Zusammenhang wird die Energie auch oft als elektrische Kapazität bezeichnet. [6]  
 Eine Ladesteckdose für zu Hause (Wallbox) stellt eine Leistung von 11kW oder 22kW zu Verfügung (vergleichbar CEE Stecker 16A bzw. 32A).  
 Um einen ID3 voll zu laden weden also 5h bzw. knapp 3h benötigt. An einer gewöhnlichen Steckdose (max. 3,7kW) würde es fast 16h dauern.  
 
-Der Kraftstofftank eine Golf 7 fasst 50L. Ein voll getankter Golf 7 Diesel hat also eine "Kapazität" von 500kWh.  
+Der Kraftstofftank eines Golf 7 fasst 50L. Ein voll getankter Golf 7 Diesel hat also eine "Kapazität" von 500kWh.  
 
 ## Energiekosten
 Strompreis in der Industrie 16,65 cent/kWh  
@@ -60,6 +60,13 @@ Angenommen, 20 Erwachsene Menschen strampeln 90min im Fitnessstudio während ein
 
 ## Real World Examples
 Um mit einem handelsüblichen Wasserkocher 1,5l Wasser zum kochen bringen benötigt es 0,15 kWh. Dabei entstehen kosten von 4,5 cent [4].  
+
+## Energiespeicher
+Was ist ein guter Energie speicher? Sofort denken wir dabei an eine Batterie. Die 75kWh Batterie des Tesla Model 3 wiegt 478kg.  
+Triviales Wasser zum Beispiel hat eine spezifische Wärmekapazität von 1,16 Wh/K/kg. 1 kg Wasser muss so eine Energie von ca. 4190 Joule (1,16Wh) zugeführt werden, um die Wassertemperatur um oder 1 ∘ C zu erhöhen.  
+Wie wir alle wissen ist Wasser weder giftig, noch selten, noch teuer, noch sonderlich kritisch in der industriellen verarbeitung. Es hat leider den gravierenden nachteil, dass man mit warmen Wasser keine Playstaiin betrieben kann oder einen KI Server. 
+
+478kg Wasser (478L), erhitzt auf 90 Grad hat eine gespeicherte Energie von 50kWh (relativ zu 0 Grad). Das ist zwar weniger als die Telsa Batterie aber dafür wesentlich unproblematischer.  
 
 ## Quellen
 [1] [Wattzahlen eines guten Radfahrers](https://blog.2peak.com/was-sind-die-durchschnittlichen-wattzahlen-eines-guten-radfahrers/)  
